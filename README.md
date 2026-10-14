@@ -74,10 +74,10 @@ Tesseract OCR: Recognizes characters with Russian language support
 
 📊 Results
 Example Output
-Input Image	Detected Plate	Recognized Text
-image1.jpg	✅ Detected	[Recognized text]
-image2.jpg	✅ Detected	[Recognized text]
-image3.jpg	✅ Detected	[Recognized text]
+Input Image	Detected Plate	
+image1.jpg	✅ Detected	
+image2.jpg	✅ Detected	
+image3.jpg	✅ Detected	
 
 
 🛠️ Technologies Used
